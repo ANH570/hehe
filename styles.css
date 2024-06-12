@@ -42,9 +42,9 @@ canvas {
 
 .form-container {
     background-color: #000000;
-    width: 80%;
+    width: 100%;
     color: #fff;
-    font-size: 31px;
+    font-size: 21px;
     font-style: italic;
     display: flex;
     align-items: center;
