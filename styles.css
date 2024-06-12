@@ -27,7 +27,7 @@ canvas {
 
 .container {
     background-color: #000000;
-    width: 80%;
+    width: 100%;
     color: #fff;
     font-size: 40px;
     font-style: italic;
@@ -57,7 +57,7 @@ canvas {
 
 .box {
     background-color: #000000;
-    width: 80%;
+    width: 100%;
     color: #fff;
     font-size: 31px;
     font-style: italic;
@@ -71,7 +71,7 @@ canvas {
 
 button {
     background-color: #000000;
-    width: 80%;
+    width: 100%;
     color: #fff;
     height: 100%;
     font-size: 28px;
